@@ -1,11 +1,29 @@
 h2 {
-	border: solid 3px #987;
+	border: solid 3px #885C00;
 	border-radius: 10px;
-	background-color: #789;
+	background-color: #cccccc;
 	width: 500px;
 	margin: 0 auto;
+	color: #080500;
 }
 body {
 	text-align: center;
-	background-color: #998;
+	background-color: #ffffff;
+}
+
+#left {
+	line-height:30px;
+    background-color:#aa8369;
+    height: 100vh;
+    width: 400px;
+    float: left;
+	font-size: 20px;
+	text-align: center;
+}
+
+#right {
+    background-color:#aa8369;
+    height: 100vh;
+    width: 400px;
+    float: right;
 }
